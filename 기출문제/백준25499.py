@@ -2,7 +2,7 @@ from sys import stdin
 
 N = int(stdin.readline())
 A_list = list(map(int, stdin.readline().split(' ')))
-#11
+#111111
 
 def fn(start, end):
     if start == end:
